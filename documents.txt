@@ -1,0 +1,51 @@
+デスクトップパソコン
+cドライブ、osとプログラム
+dドライブ、ドキュメントとソースコード、オフィスファイル
+gドライブ、システムとデータのバックアップ、元mp3ファイル
+hドライブ、Evernoteのバックアップ、コピーログ、先mp3ファイル、fireの画像ファイル
+iドライブ、dドライブのコピー、とスマホの画像ファイル、役のファイル、プロバイダとスマホのメール
+sドライブ、Dropbox、Evernoteのローカルファイル
+
+
+ノートパソコン
+cドライブ、osとプログラム、Evernoteのローカル保存先
+dドライブ、デスクトップのdドライブのコピー、Dropboxのローカル保存先
+fドライブ、デスクトップパソコンのd、i、hのコピー先、gドライブのmp3ファイルコピー先
+hドライブ、システムとデータのバックアップ、デスクトップパソコンのhドライブのmp3ファイルのコピー先
+デスクトップパソコンのHドライブのダウンロードのコピーをFドライブのダウンロードにコピー
+
+乱雑だな。
+最低2つのドライブにコピーを残している。
+
+Linuxパソコン
+192.168.1.64 compaq
+ホームディレクトリに、コピーを保存。
+
+外付けHDD2.2G
+/media/bdba8ef1-c042-48f6-9ed1-d2515f3f5628/takehiko/
+EvernoteBackup.tar.gz
+del.sh
+doc.tar.gz
+office/
+run.sh
+run.sh~
+sync.sh
+sync2.sh
+
+外付けHDD1TB
+/mediaec1576a9-a507-4fee-9820-d62805dbc320/takehiko/
+
+EvernoteBackup/        doc.tar.gz             sync.sh
+EvernoteBackup.tar.gz  log/                   sync2.sh
+EvernoteEnex/          mymusic/               ダウンロード/
+del.sh                 office/
+doc/                   run.sh
+
+192.168.1.128 t100ta
+ホームディレクトリにjavaのコピーを保存。
+
+外付けHDD2TB
+/media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/
+Downloads/      EvernoteEnex/   mymusic/        ダウンロード/
+EvernoteBackup/ doc/            office/
+
