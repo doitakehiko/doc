@@ -49,3 +49,4 @@ doc/                   run.sh
 Downloads/      EvernoteEnex/   mymusic/        ダウンロード/
 EvernoteBackup/ doc/            office/
 
+D:\java,D:\c#,D:\docをgithubに登録。
