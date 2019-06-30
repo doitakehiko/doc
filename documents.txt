@@ -50,3 +50,5 @@ Downloads/      EvernoteEnex/   mymusic/        ダウンロード/
 EvernoteBackup/ doc/            office/
 
 D:\java,D:\c#,D:\docをgithubに登録。
+https://github.com/doitakehiko/
+s
