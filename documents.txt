@@ -3,7 +3,7 @@ cドライブ、osとプログラム
 dドライブ、ドキュメントとソースコード、オフィスファイル
 gドライブ、システムとデータのバックアップ、元mp3ファイル
 hドライブ、Evernoteのバックアップ、コピーログ、先mp3ファイル、fireの画像ファイル
-iドライブ、dドライブのコピー、とスマホの画像ファイル、役のファイル、プロバイダとスマホのメール
+iドライブ、dドライブのコピー、とスマホの画像ファイル、プロバイダとスマホのメール
 sドライブ、Dropbox、Evernoteのローカルファイル
 
 
@@ -21,16 +21,9 @@ Linuxパソコン
 192.168.1.64 compaq
 ホームディレクトリに、コピーを保存。
 
-外付けHDD2.2G
-/media/bdba8ef1-c042-48f6-9ed1-d2515f3f5628/takehiko/
-EvernoteBackup.tar.gz
-del.sh
-doc.tar.gz
-office/
-run.sh
-run.sh~
-sync.sh
-sync2.sh
+外付けHDD1.5tb
+/media/6a4a6100-2e5e-419a-a2a1-e8a902c1899c/takehiko/
+ホームディレクトリをコピー
 
 外付けHDD1TB
 /mediaec1576a9-a507-4fee-9820-d62805dbc320/takehiko/
@@ -40,6 +33,7 @@ EvernoteBackup.tar.gz  log/                   sync2.sh
 EvernoteEnex/          mymusic/               ダウンロード/
 del.sh                 office/
 doc/                   run.sh
+Downloads/
 
 192.168.1.128 t100ta
 ホームディレクトリにjavaのコピーを保存。
@@ -50,5 +44,3 @@ Downloads/      EvernoteEnex/   mymusic/        ダウンロード/
 EvernoteBackup/ doc/            office/
 
 D:\java,D:\c#,D:\docをgithubに登録。
-https://github.com/doitakehiko/
-s
