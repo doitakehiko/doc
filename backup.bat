@@ -22,8 +22,6 @@ robocopy I:\office \\win10\f\office /LOG+:"%logfile%"  /MIR
 robocopy I:\pic_INTER \\win10\f\pic_INTER /LOG+:"%logfile%"  /MIR
 robocopy I:\pic_SD \\win10\f\pic_SD /LOG+:"%logfile%"  /MIR
 robocopy I:\dlsite \\win10\f\dlsite /LOG+:"%logfile%"  /MIR
-robocopy I:\ìøë†éõëçë„ \\win10\f\ìøë†éõëçë„ /LOG+:"%logfile%"  /MIR
-robocopy I:\ëﬁêEé“êeñrâÔ \\win10\f\ëﬁêEé“êeñrâÔ /LOG+:"%logfile%"  /MIR
 robocopy G:\mymusic \\win10\h\mymusic /LOG+:"%logfile%" /MIR
 robocopy h:\Evernotebackup \\win10\h\Evernotebackup /LOG+:"%logfile%" /MIR
 robocopy h:\EvernoteEnex \\win10\h\EvernoteEnex /LOG+:"%logfile%" /MIR
