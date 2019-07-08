@@ -13,6 +13,7 @@ dドライブ、デスクトップのdドライブのコピー、Dropboxのローカル保存先
 fドライブ、デスクトップパソコンのd、i、hのコピー先、gドライブのmp3ファイルコピー先
 hドライブ、システムとデータのバックアップ、デスクトップパソコンのhドライブのmp3ファイルのコピー先
 デスクトップパソコンのHドライブのダウンロードのコピーをFドライブのダウンロードにコピー
+zドライブ、Ready Boost専用
 
 乱雑だな。
 最低2つのドライブにコピーを残している。
@@ -44,3 +45,4 @@ Downloads/      EvernoteEnex/   mymusic/        ダウンロード/
 EvernoteBackup/ doc/            office/
 
 D:\java,D:\c#,D:\docをgithubに登録。
+https://github.com/doitakehiko/
