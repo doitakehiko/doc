@@ -1,0 +1,24 @@
+option batch on
+open takehiko@t100ta
+synchronize remote -delete 
+
+synchronize D:\0721 		/media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/0721
+synchronize D:\c# 		/media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/c#
+synchronize D:\doc 		/media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/doc
+synchronize D:\doc_old 		/media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/doc_old
+synchronize D:\Downloads 	/media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/Downloads
+synchronize D:\java 		/media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/java
+synchronize D:\manga 		/media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/manga
+synchronize D:\office 		/media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/office
+
+
+synchronize F:\dlsite 		/media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/dlsite
+synchronize F:\EvernoteBackup 	/media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/EvernoteBackup
+synchronize F:\EvernoteEnex 	/media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/EvernoteEnex
+synchronize F:\mymusic 		/media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/mymusic
+synchronize F:\pic_INTER 	/media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/pic_INTER
+synchronize F:\pic_SD 		/media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/pic_SD
+
+synchronize F:\ダウンロード /media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/ダウンロード
+
+exit

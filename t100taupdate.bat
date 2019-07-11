@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\WinSCP\WinSCP.exe" /console /script="D:\doc\scpt110ta.script"
