@@ -1,2 +1,2 @@
-rd /s /q H:\EvernoteBackup
-mkdir H:\EvernoteBackup
+rd /s /q F:\EvernoteBackup
+mkdir F:\EvernoteBackup
