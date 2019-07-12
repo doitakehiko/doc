@@ -1,9 +1,4 @@
 #!/bin/sh
-rsync -a -v /home/takehiko/office/ /media/bdba8ef1-c042-48f6-9ed1-d2515f3f5628/takehiko/office/   2>> /home/takehiko/log/`date "+%Y%m%d"`.err.log
-cp /home/takehiko/EvernoteBackup.tar.gz /media/bdba8ef1-c042-48f6-9ed1-d2515f3f5628/takehiko/EvernoteBackup.tar.gz   2>> /home/takehiko/log/`date "+%Y%m%d"`.err.log
-cp /home/takehiko/doc.tar.gz /media/bdba8ef1-c042-48f6-9ed1-d2515f3f5628/takehiko/doc.tar.gz   2>> /home/takehiko/log/`date "+%Y%m%d"`.err.log
-cp /home/takehiko/del.sh /media/bdba8ef1-c042-48f6-9ed1-d2515f3f5628/takehiko/del.sh   2>> /home/takehiko/log/`date "+%Y%m%d"`.err.log
-cp /home/takehiko/run.sh /media/bdba8ef1-c042-48f6-9ed1-d2515f3f5628/takehiko/run.sh   2>> /home/takehiko/log/`date "+%Y%m%d"`.err.log
-cp /home/takehiko/sync.sh /media/bdba8ef1-c042-48f6-9ed1-d2515f3f5628/takehiko/sync.sh   2>> /home/takehiko/log/`date "+%Y%m%d"`.err.log
-cp /home/takehiko/sync2.sh /media/bdba8ef1-c042-48f6-9ed1-d2515f3f5628/takehiko/sync2.sh   2>> /home/takehiko/log/`date "+%Y%m%d"`.err.log
+rsync -a -v /home/takehiko/ /media/6a4a6100-2e5e-419a-a2a1-e8a902c1899c/takehiko/   2>> /home/takehiko/log/`date "+%Y%m%d"`.err.log
+rsync -a -v /home/takehiko/ /media/ec1576a9-a507-4fee-9820-d62805dbc320/takehiko/   2>> /home/takehiko/log/`date "+%Y%m%d"`.err.log
 cat /home/takehiko/log/`date "+%Y%m%d"`.err.log
