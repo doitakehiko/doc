@@ -14,8 +14,6 @@ fドライブ、デスクトップパソコンのfドライブのコピー
 hドライブ、ノートパソコンのシステムのバックアップ
 zドライブ、Ready Boost専用
 
-最低2つのドライブにコピーを残している。
-
 Linuxパソコン
 192.168.1.64 compaq
 ホームディレクトリに、コピーを保存。
@@ -26,21 +24,31 @@ Linuxパソコン
 
 外付けHDD1TB
 /mediaec1576a9-a507-4fee-9820-d62805dbc320/takehiko/
+ホームディレクトリをコピー
 
-EvernoteBackup/        doc.tar.gz             sync.sh
-EvernoteBackup.tar.gz  log/                   sync2.sh
-EvernoteEnex/          mymusic/               ダウンロード/
-del.sh                 office/
-doc/                   run.sh
-Downloads/
 
 192.168.1.128 t100ta
-ホームディレクトリにjavaのコピーを保存。
 
 外付けHDD2TB
 /media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/
-Downloads/      EvernoteEnex/   mymusic/        ダウンロード/
-EvernoteBackup/ doc/            office/
+以下ディレクトリを/medeaフォルダにコピー
+ D:\0721
+ D:\c# 
+ D:\doc
+ D:\Downloads
+ D:\java 
+ D:\manga
+ D:\officee
+ F:\dlsite
+ F:\EvernoteBackup
+ F:\EvernoteEnex 
+ F:\mymusic 	
+ F:\pic_INTER 	
+ F:\pic_SD	
+ F:\ダウンロード 
+
+/media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/
+
 
 D:\java,D:\c#,D:\docをgithubに登録。
 https://github.com/doitakehiko/
