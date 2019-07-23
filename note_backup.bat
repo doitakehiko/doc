@@ -1,0 +1,20 @@
+Robocopy D:\0721 	L:\0721
+Robocopy D:\c# 		L:\c#
+Robocopy D:\doc 	L:\doc
+Robocopy D:\doc_old 	L:\doc_old
+Robocopy D:\Downloads 	L:\Downloads
+Robocopy D:\Dropbox 	L:\Dropbox
+Robocopy D:\java 	L:\java
+Robocopy D:\manga 	L:\manga
+Robocopy D:\office 	L:\office
+
+Robocopy F:\ChilkatDotNet4-9.4.1-win32 L:\ChilkatDotNet4-9.4.1-win32
+Robocopy F:\dlsite 	L:\dlsite
+Robocopy F:\DotNetZipLib-Runtime-v1.9  L:\DotNetZipLib-Runtime-v1.9
+Robocopy F:\Ed 		L:\Ed
+Robocopy F:\EvernoteBackup 	L:\EvernoteBackup
+Robocopy F:\EvernoteEnex 	L:\EvernoteEnex
+Robocopy F:\mymusic 		L:\mymusic
+Robocopy F:\pic_INTER 		L:\pic_INTER
+Robocopy F:\pic_SD 		L:\pic_SD
+Robocopy F:\ダウンロード 	L:\ダウンロード
