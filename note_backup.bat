@@ -9,6 +9,7 @@ Robocopy D:\Dropbox 	L:\Dropbox	/LOG+:%logfile%	/MIR
 Robocopy D:\java 	L:\java		/LOG+:%logfile%	/MIR
 Robocopy D:\manga 	L:\manga	/LOG+:%logfile%	/MIR
 Robocopy D:\office 	L:\office	/LOG+:%logfile%	/MIR
+Robocopy D:\webGL 	L:\owebGL	/LOG+:%logfile%	/MIR
 
 Robocopy F:\ChilkatDotNet4-9.4.1-win32 L:\ChilkatDotNet4-9.4.1-win32
 Robocopy F:\dlsite 	L:\dlsite	/LOG+:%logfile%	/MIR
