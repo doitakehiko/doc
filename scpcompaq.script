@@ -9,6 +9,7 @@ synchronize remote -delete D:\Downloads 	/home/takehiko/Downloads
 synchronize remote -delete D:\java 		/home/takehiko/java
 synchronize remote -delete D:\manga 		/home/takehiko/manga
 synchronize remote -delete D:\office 		/home/takehiko/office
+synchronize remote -delete D:\webGL 		/home/takehiko/webGL
 
 
 synchronize remote -delete F:\dlsite 		/home/takehiko/dlsite

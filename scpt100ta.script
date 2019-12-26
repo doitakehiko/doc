@@ -7,6 +7,7 @@ synchronize remote -delete  D:\Downloads /media/takehiko/1b809b77-67f0-432f-947b
 synchronize remote -delete  D:\java 	/media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/java
 synchronize remote -delete  D:\manga 	/media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/manga
 synchronize remote -delete  D:\office 	/media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/office
+synchronize remote -delete  D:\webGL 	/media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/webGL
 
 
 synchronize remote -delete  F:\dlsite 		/media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/dlsite
