@@ -7,5 +7,6 @@ robocopy D:\java 	S:\Dropbox\Dropbox\java 	/LOG+:%logfile%  /MIR
 robocopy D:\manga 	S:\Dropbox\Dropbox\manga 	/LOG+:%logfile%  /MIR
 robocopy D:\office 	S:\Dropbox\Dropbox\office 	/LOG+:%logfile%  /MIR
 robocopy D:\webGL 	S:\Dropbox\Dropbox\webGL 	/LOG+:%logfile%  /MIR
+robocopy D:dbdate 	S:\Dropbox\Dropbox\dbdate 	/LOG+:%logfile%  /MIR
 
 TYPE "%logfile%" | MORE
