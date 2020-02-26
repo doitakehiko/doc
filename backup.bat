@@ -16,6 +16,8 @@ robocopy D:\manga 	\\win10\D\manga 	/LOG+:%logfile%  /MIR
 robocopy D:\office 	\\win10\D\office 	/LOG+:%logfile%  /MIR
 robocopy D:\webGL 	\\win10\D\webGL 	/LOG+:%logfile%  /MIR
 robocopy D:\dbdate 	\\win10\D\dbdate 	/LOG+:%logfile%  /MIR
+robocopy D:\DVD 	\\win10\D\DVD 		/LOG+:%logfile%
+robocopy \\win10\D\DVD 	D:\DVD 			/LOG+:%logfile%
 
 robocopy F:\dlsite 			\\win10\F\dlsite 			/LOG+:%logfile%  /MIR
 robocopy F:\Ed 				\\win10\F\Ed 				/LOG+:%logfile%  /MIR
