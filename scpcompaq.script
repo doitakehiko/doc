@@ -11,7 +11,8 @@ synchronize remote -delete D:\manga 		/home/takehiko/manga
 synchronize remote -delete D:\office 		/home/takehiko/office
 synchronize remote -delete D:\webGL 		/home/takehiko/webGL
 synchronize remote -delete D:\dbdate 		/home/takehiko/dbdate
-
+synchronize remote -delete D:\DVD 		/media/f9b190f8-1faa-465b-b345-e97302a42689/takehiko/DVD
+synchronize remote -delete D:\DVD 		/media/6a4a6100-2e5e-419a-a2a1-e8a902c1899c/takehiko/DVD
 
 synchronize remote -delete F:\dlsite 		/home/takehiko/dlsite
 synchronize remote -delete F:\EvernoteBackup 	/home/takehiko/EvernoteBackup
