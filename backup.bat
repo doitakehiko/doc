@@ -18,6 +18,7 @@ robocopy D:\webGL 	\\win10\D\webGL 	/LOG+:%logfile%  /MIR
 robocopy D:\dbdate 	\\win10\D\dbdate 	/LOG+:%logfile%  /MIR
 robocopy D:\DVD 	\\win10\D\DVD 		/LOG+:%logfile%
 robocopy \\win10\D\DVD 	D:\DVD 			/LOG+:%logfile%
+robocopy "\\win10\Users\takeh\Pictures\Camera Roll" "D:\ÉJÉÅÉâÉçÅ[Éã" /LOG+:%logfile%
 
 robocopy F:\dlsite 			\\win10\F\dlsite 			/LOG+:%logfile%  /MIR
 robocopy F:\Ed 				\\win10\F\Ed 				/LOG+:%logfile%  /MIR
