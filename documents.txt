@@ -12,6 +12,7 @@ cドライブ、osとプログラム、Evernoteのローカル保存先
 dドライブ、デスクトップのdドライブのコピー、Dropboxのローカル保存先
 fドライブ、デスクトップパソコンのfドライブのコピー
 hドライブ、ノートパソコンのシステムのバックアップ
+lドライブ、dドライブとfドライブのコピー
 zドライブ、Ready Boost専用
 
 Linuxパソコン
@@ -40,7 +41,8 @@ Linuxパソコン
  D:\manga
  D:\officee
  D:\webG
- D:\dbdate
+ D:\DVD
+ D:\カメラロール
  F:\dlsite
  F:\EvernoteBackup
  F:\EvernoteEnex 
