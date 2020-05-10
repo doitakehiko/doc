@@ -1,0 +1,27 @@
+option batch on
+open takehiko@centos
+
+synchronize remote -delete D:\0721 		/home/takehiko/0721
+synchronize remote -delete D:\c# 		/home/takehiko/c#
+synchronize remote -delete D:\doc 		/home/takehiko/doc
+synchronize remote -delete D:\doc_old 		/home/takehiko/doc_old
+synchronize remote -delete D:\Downloads 	/home/takehiko/Downloads
+synchronize remote -delete D:\java 		/home/takehiko/java
+synchronize remote -delete D:\manga 		/home/takehiko/manga
+synchronize remote -delete D:\office 		/home/takehiko/office
+synchronize remote -delete D:\webGL 		/home/takehiko/webGL
+synchronize remote -delete D:\dbdate 		/home/takehiko/dbdate
+synchronize remote -delete D:\DVD 		/media/DVD
+synchronize remote -delete D:\カメラロール 	/media/カメラロール
+
+
+synchronize remote -delete F:\dlsite 		/home/takehiko/dlsite
+synchronize remote -delete F:\EvernoteBackup 	/home/takehiko/EvernoteBackup
+synchronize remote -delete F:\EvernoteEnex 	/home/takehiko/EvernoteEnex
+synchronize remote -delete F:\mymusic 		/home/takehiko/mymusic
+synchronize remote -delete F:\pic_INTER 	/home/takehiko/pic_INTER
+synchronize remote -delete F:\pic_SD 		/home/takehiko/pic_SD
+
+synchronize remote -delete F:\ダウンロード	/home/takehiko/ダウンロード
+
+exit
