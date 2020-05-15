@@ -11,8 +11,8 @@ synchronize remote -delete D:\manga 		/home/takehiko/manga
 synchronize remote -delete D:\office 		/home/takehiko/office
 synchronize remote -delete D:\webGL 		/home/takehiko/webGL
 synchronize remote -delete D:\dbdate 		/home/takehiko/dbdate
-synchronize remote -delete D:\DVD 		/media/DVD
-synchronize remote -delete D:\カメラロール 	/media/カメラロール
+synchronize remote -delete D:\DVD 		/home/takehiko/DVD
+synchronize remote -delete D:\カメラロール 	/home/takehiko/カメラロール
 
 
 synchronize remote -delete F:\dlsite 		/home/takehiko/dlsite
