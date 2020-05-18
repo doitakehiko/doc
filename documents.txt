@@ -3,7 +3,6 @@ cドライブ、osとプログラム
 dドライブ、ドキュメントとソースコード、オフィスファイル
 fドライブ、mp3ファイル、Evernoteバックアップ、メールバックアップ、画像ファイル
 hドライブ、システムのバックアップ
-
 sドライブ、Dropbox、Evernoteのローカルファイル、iTunesのファイル
 
 
@@ -13,43 +12,23 @@ dドライブ、デスクトップのdドライブのコピー、Dropboxのローカル保存先
 fドライブ、デスクトップパソコンのfドライブのコピー
 hドライブ、ノートパソコンのシステムのバックアップ
 lドライブ、dドライブとfドライブのコピー
+mドライブ、dドライブとfドライブのコピー
 zドライブ、Ready Boost専用
 
+
 Linuxパソコン
-192.168.1.64 compaq
+192.168.1.64 centos
 ホームディレクトリに、コピーを保存。
 
+
 外付けHDD1.5tb
-/media/6a4a6100-2e5e-419a-a2a1-e8a902c1899c/takehiko/
+/run/media/takehiko/6a4a6100-2e5e-419a-a2a1-e8a902c1899c/takehiko/
 ホームディレクトリをコピー
+
 
 外付けHDD1TB
-/mediaec1576a9-a507-4fee-9820-d62805dbc320/takehiko/
+/run/media/takehiko/f9b190f8-1faa-465b-b345-e97302a42689/takehiko/
 ホームディレクトリをコピー
-
-
-192.168.1.128 t100ta
-
-外付けHDD2TB
-/media/takehiko/1b809b77-67f0-432f-947b-78ab406976d0/home/
-以下ディレクトリを/medeaフォルダにコピー
- D:\0721
- D:\c# 
- D:\doc
- D:\Downloads
- D:\java 
- D:\manga
- D:\officee
- D:\webG
- D:\DVD
- D:\カメラロール
- F:\dlsite
- F:\EvernoteBackup
- F:\EvernoteEnex 
- F:\mymusic 	
- F:\pic_INTER 	
- F:\pic_SD	
- F:\ダウンロード 
 
 
 D:\java,D:\c#,D:\doc,D:\webGLをgithubに登録。
