@@ -19,6 +19,8 @@ robocopy D:\dbdate 	\\win10\D\dbdate 	/LOG+:%logfile%  /MIR
 robocopy D:\DVD 	\\win10\D\DVD 		/LOG+:%logfile%
 robocopy \\win10\D\DVD 	D:\DVD 			/LOG+:%logfile%
 robocopy "\\win10\Users\takeh\Pictures\Camera Roll" "D:\カメラロール" /LOG+:%logfile%
+robocopy C:\Users\takeh\Music\iTunes S:\ミュージック\iTunes  	 /LOG+:%logfile% /MIR
+robocopy C:\Users\takeh\Music\iTunes \\win10\Users\takeh\Music\iTunes  /LOG+:%logfile% /MIR
 
 robocopy F:\dlsite 			\\win10\F\dlsite 			/LOG+:%logfile%  /MIR
 robocopy F:\Ed 				\\win10\F\Ed 				/LOG+:%logfile%  /MIR

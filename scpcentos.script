@@ -13,7 +13,7 @@ synchronize remote -delete D:\webGL 		/home/takehiko/webGL
 synchronize remote -delete D:\dbdate 		/home/takehiko/dbdate
 synchronize remote -delete D:\DVD 		/home/takehiko/DVD
 synchronize remote -delete D:\カメラロール 	/home/takehiko/カメラロール
-
+synchronize remote -delete C:\Users\takeh\Music\iTunes /home/takehiko/iTunes
 
 synchronize remote -delete F:\dlsite 		/home/takehiko/dlsite
 synchronize remote -delete F:\EvernoteBackup 	/home/takehiko/EvernoteBackup

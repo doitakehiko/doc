@@ -13,6 +13,8 @@ Robocopy D:\webGL 	L:\webGL	/LOG+:%logfile%	/MIR
 Robocopy D:\dbdate 	L:\dbdate	/LOG+:%logfile%	/MIR
 Robocopy D:\DVD 	L:\DVD		/LOG+:%logfile%	/MIR
 Robocopy "C:\Users\takeh\Pictures\Camera Roll" "L:\カメラロール" /LOG+:%logfile% /MIR
+Robocopy C:\Users\takeh\Music\iTunes 	L:\ミュージック\iTunes	/LOG+:%logfile%	/MIR
+
 
 Robocopy F:\ChilkatDotNet4-9.4.1-win32 L:\ChilkatDotNet4-9.4.1-win32
 Robocopy F:\dlsite 		L:\dlsite		/LOG+:%logfile%	/MIR
@@ -39,6 +41,8 @@ Robocopy D:\webGL 	M:\webGL	/LOG+:%logfile%	/MIR
 Robocopy D:\dbdate 	M:\dbdate	/LOG+:%logfile%	/MIR
 Robocopy D:\DVD 	M:\DVD		/LOG+:%logfile%	/MIR
 Robocopy "C:\Users\takeh\Pictures\Camera Roll" "M:\カメラロール" /LOG+:%logfile% /MIR
+Robocopy C:\Users\takeh\Music\iTunes 	M:\ミュージック\iTunes	/LOG+:%logfile%	/MIR
+
 
 Robocopy F:\ChilkatDotNet4-9.4.1-win32 M:\ChilkatDotNet4-9.4.1-win32
 Robocopy F:\dlsite 		M:\dlsite		/LOG+:%logfile%	/MIR
