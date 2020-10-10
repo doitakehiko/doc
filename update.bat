@@ -30,4 +30,4 @@ robocopy D:\office 	S:\google\office 	/LOG+:%logfile%  /MIR
 robocopy D:\webGL 	S:\google\webGL 	/LOG+:%logfile%  /MIR
 robocopy D:\dbdate 	S:\google\dbdate 	/LOG+:%logfile%  /MIR
 
-TYPE "%logfile%" | MORE
+TYPE "%logfile%"

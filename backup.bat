@@ -32,7 +32,7 @@ robocopy F:\pic_SD 			\\win10\F\pic_SD 			/LOG+:%logfile%  /MIR
 robocopy F:\ダウンロード 		\\win10\F\ダウンロード  		/LOG+:%logfile%  /MIR
 
 NET USE \\Win10 /DELETE
-TYPE %logfile% | MORE
+TYPE %logfile%
 :End
 echo スクリプトを終了します．
 echo 何かキーを押してください...

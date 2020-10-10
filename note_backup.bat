@@ -28,7 +28,7 @@ Robocopy F:\pic_SD 		L:\pic_SD 		/LOG+:%logfile%	/MIR
 Robocopy F:\ダウンロード 	L:\ダウンロード 	/LOG+:%logfile%	/MIR
 
 
-TYPE %logfile% | MORE
+TYPE %logfile%
 
 echo スクリプトを終了します．
 echo 何かキーを押してください...
