@@ -16,7 +16,6 @@ synchronize remote -delete D:\カメラロール 	/home/takehiko/カメラロー
 synchronize remote -delete C:\Users\takeh\Music\iTunes /home/takehiko/iTunes
 
 synchronize remote -delete F:\dlsite 		/home/takehiko/dlsite
-synchronize remote -delete F:\EvernoteBackup 	/home/takehiko/EvernoteBackup
 synchronize remote -delete F:\EvernoteEnex 	/home/takehiko/EvernoteEnex
 synchronize remote -delete F:\mymusic 		/home/takehiko/mymusic
 synchronize remote -delete F:\pic_INTER 	/home/takehiko/pic_INTER

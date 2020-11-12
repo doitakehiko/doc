@@ -20,7 +20,6 @@ Robocopy F:\ChilkatDotNet4-9.4.1-win32 L:\ChilkatDotNet4-9.4.1-win32
 Robocopy F:\dlsite 		L:\dlsite		/LOG+:%logfile%	/MIR
 Robocopy F:\DotNetZipLib-Runtime-v1.9  L:\DotNetZipLib-Runtime-v1.9
 Robocopy F:\Ed 			L:\Ed			/LOG+:%logfile%	/MIR
-Robocopy F:\EvernoteBackup 	L:\EvernoteBackup 	/LOG+:%logfile%	/MIR
 Robocopy F:\EvernoteEnex 	L:\EvernoteEnex 	/LOG+:%logfile%	/MIR
 Robocopy F:\mymusic 		L:\mymusic 		/LOG+:%logfile%	/MIR
 Robocopy F:\pic_INTER 		L:\pic_INTER 		/LOG+:%logfile%	/MIR

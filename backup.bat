@@ -24,7 +24,6 @@ robocopy C:\Users\takeh\Music\iTunes \\win10\Users\takeh\Music\iTunes  /LOG+:%lo
 
 robocopy F:\dlsite 			\\win10\F\dlsite 			/LOG+:%logfile%  /MIR
 robocopy F:\Ed 				\\win10\F\Ed 				/LOG+:%logfile%  /MIR
-robocopy F:\EvernoteBackup 		\\win10\F\EvernoteBackup		/LOG+:%logfile%  /MIR
 robocopy F:\EvernoteEnex		\\win10\F\EvernoteEnex			/LOG+:%logfile%  /MIR
 robocopy F:\mymusic			\\win10\F\mymusic 			/LOG+:%logfile%  /MIR
 robocopy F:\pic_INTER 			\\win10\F\pic_INTER 			/LOG+:%logfile%  /MIR
