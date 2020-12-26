@@ -11,24 +11,12 @@ cドライブ、osとプログラム、Evernoteのローカル保存先
 dドライブ、デスクトップのdドライブのコピー、Dropboxのローカル保存先
 fドライブ、デスクトップパソコンのfドライブのコピー
 hドライブ、ノートパソコンのシステムのバックアップ
-lドライブ、dドライブとfドライブのコピー
 zドライブ、Ready Boost専用
 
 
 Linuxパソコン
 192.168.1.64 centos
 ホームディレクトリに、コピーを保存。
-
-
-外付けHDD1.5tb
-/run/media/takehiko/6a4a6100-2e5e-419a-a2a1-e8a902c1899c/takehiko/
-ホームディレクトリをコピー
-
-
-外付けHDD1TB
-/run/media/takehiko/f9b190f8-1faa-465b-b345-e97302a42689/takehiko/
-ホームディレクトリをコピー
-
 
 D:\java,D:\c#,D:\doc,D:\webGLをgithubに登録。
 https://github.com/doitakehiko/
