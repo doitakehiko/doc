@@ -1,13 +1,13 @@
 set logfile="F:\log\copylog\%date:~0,4%-%date:~5,2%-%date:~8,2%_update.log"
-robocopy D:\0721 	S:\Dropbox\Dropbox\0721 	/LOG+:%logfile%  /MIR
-robocopy D:\c# 		S:\Dropbox\Dropbox\c# 		/LOG+:%logfile%  /MIR
-robocopy D:\doc 	S:\Dropbox\Dropbox\doc 		/LOG+:%logfile%  /MIR
-robocopy D:\Downloads 	S:\Dropbox\Dropbox\Downloads 	/LOG+:%logfile%  /MIR
-robocopy D:\java 	S:\Dropbox\Dropbox\java 	/LOG+:%logfile%  /MIR
-robocopy D:\manga 	S:\Dropbox\Dropbox\manga 	/LOG+:%logfile%  /MIR
-robocopy D:\office 	S:\Dropbox\Dropbox\office 	/LOG+:%logfile%  /MIR
-robocopy D:\webGL 	S:\Dropbox\Dropbox\webGL 	/LOG+:%logfile%  /MIR
-robocopy D:\dbdate 	S:\Dropbox\Dropbox\dbdate 	/LOG+:%logfile%  /MIR
+robocopy D:\0721 	S:\Dropbox\0721 	/LOG+:%logfile%  /MIR
+robocopy D:\c# 		S:\Dropbox\c# 		/LOG+:%logfile%  /MIR
+robocopy D:\doc 	S:\Dropbox\doc 		/LOG+:%logfile%  /MIR
+robocopy D:\Downloads 	S:\Dropbox\Downloads 	/LOG+:%logfile%  /MIR
+robocopy D:\java 	S:\Dropbox\java 	/LOG+:%logfile%  /MIR
+robocopy D:\manga 	S:\Dropbox\manga 	/LOG+:%logfile%  /MIR
+robocopy D:\office 	S:\Dropbox\office 	/LOG+:%logfile%  /MIR
+robocopy D:\webGL 	S:\Dropbox\webGL 	/LOG+:%logfile%  /MIR
+robocopy D:\dbdate 	S:\Dropbox\dbdate 	/LOG+:%logfile%  /MIR
 
 
 robocopy D:\0721 	C:\Users\takeh\OneDrive\ÉhÉLÉÖÉÅÉìÉg\0721 /LOG+:%logfile%  /MIR
