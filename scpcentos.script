@@ -14,6 +14,8 @@ synchronize remote -delete D:\dbdate 		/home/takehiko/dbdate
 synchronize remote -delete D:\DVD 		/home/takehiko/DVD
 synchronize remote -delete D:\カメラロール 	/home/takehiko/カメラロール
 synchronize remote -delete C:\Users\takeh\Music\iTunes /home/takehiko/iTunes
+synchronize remote -delete D:\mp4	 	/home/takehiko/mp4
+
 
 synchronize remote -delete F:\dlsite 		/home/takehiko/dlsite
 synchronize remote -delete F:\EvernoteEnex 	/home/takehiko/EvernoteEnex
